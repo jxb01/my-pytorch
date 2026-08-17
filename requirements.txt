@@ -1,0 +1,12 @@
+# my-pytorch 依赖（实测环境：conda env "pytorch"）
+# Python 3.12 · torch 2.10.0 · torchvision 0.25.0 · CUDA
+#
+# ⚠️ Detectable_Bottle/V2-cascade-center-box 使用 torchvision.tv_tensors，
+#    该模块在 torchvision >= 0.19 被移除。运行该子项目请降级：torchvision<=0.18。
+torch>=2.0
+torchvision>=0.15
+numpy>=1.26
+matplotlib>=3.7
+opencv-python>=4.8
+Pillow>=10.0
+scikit-learn>=1.3

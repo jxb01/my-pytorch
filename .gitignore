@@ -1,0 +1,31 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# ── IDE ──
+.idea/
+.vscode/
+
+# ── 虚拟环境 ──
+.venv/
+venv/
+env/
+
+# ── 模型权重 ──
+*.pth
+*.pt
+*.onnx
+
+# ── 数据集 / 大压缩包（体积过大，不入库）──
+*.zip
+*.tar.gz
+*.gz
+**/data/
+**/dataset/
+Dataset_Templates/MNIST/raw/
+# 解压后的数据集（图片 + YOLO 标注），不入库
+Dataset_Templates/塑料瓶目标检测数据集/
+tool/data1/
