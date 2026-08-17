@@ -80,5 +80,5 @@ pip install -r requirements.txt
 
 ## Credits / 致谢
 
-- Author: jxb01 · Built with the assistance of DeepSeek (DeepSeek Harness) — assistant by DeepSeek
-- 作者：jxb01 · 由 DeepSeek（DeepSeek Harness）辅助完成 — assistant by DeepSeek
+- Author: jxb01 · 机器学习代码由作者本人编写；README、依赖清单与仓库工程化（.gitignore / 仓库整理）由 DeepSeek（DeepSeek Harness）辅助完成 — assistant by DeepSeek
+- 作者：jxb01 · 机器学习代码为作者原创；README、requirements.txt、.gitignore 与上传整理由 DeepSeek（DeepSeek Harness）辅助完成 — assistant by DeepSeek
